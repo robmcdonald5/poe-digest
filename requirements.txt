@@ -1,2 +1,6 @@
 fastapi
 uvicorn[standard]
+black
+ruff
+pytest
+python-dotenv
